@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MediaExplorer</string>
+    <string name ="Button1">Gestionar</string>
+    <string name ="Button2">Añadir Pelicula</string>
+    <string name ="Button3">Volver</string>
+    <string name ="SelectGen">Selecciona un Genero</string>
+    <string name ="NombrePeli">Nombre de la pelicula</string>
+    <string name ="Duracion">Duracion (Minutos)</string>
+    <string name ="AgregarPeli">Agregar Pelicula</string>
+    <string name ="Durac">Duracion: %s Minutos</string>
+    <string name ="Descripcion">Descripcion o reseña de la pelicula</string>
+    <string name ="RellenarTodosCampos">Por favor, rellene todos los campos</string>
+    <string name ="CategoriaNoDisponible">"No hay categorías disponibles. Usa el botón 'Gestionar' para crear una"</string>
+    <string name ="SinPelis">Esta categoría no tiene películas aún</string>
+    <string name ="CargandoCat">Cargando categoria</string>
+    <string name ="Categorias">Mis categorias de peliculas </string>
+    <string name ="button4">No hay categorías. Crea una nueva con el botón +</string>
+    <string name ="NuevaCategoria">Nueva Categoria</string>
+    <string name ="NombreCategoria">Nombre de la categoria</string>
+    <string name ="Crear">Crear</string>
+    <string name ="Cancelar">Cancelar</string>
+    <string name ="Eliminar">¿Estás seguro de que quieres eliminar la categoría: %s y todas sus películas asociadas? Esta acción es irreversible.</string>
+    <string name ="ConfirmarEliminar">Confirmar Eliminación</string>
+    <string name ="Eliminarr">Eliminar</string>
+    <string name ="Peliculas">Peliculas:</string>
+</resources>
